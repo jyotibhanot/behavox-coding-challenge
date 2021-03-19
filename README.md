@@ -2,15 +2,15 @@
 
 Python Program to emulate service management
 
-# Prerequisites
+## Prerequisites
 Python version: 3.6
 
-# Installation
+## Installation
 ```bash
 pip install -r requirements.txt
 ```
 
-# Usage
+## Usage
 Run the program with "python job.py"
 
 It will hault to enter the options like start, stop and exit. 
@@ -19,6 +19,6 @@ start will start all the services
 stop will stop all the services
 exit will exit the program
 
-# Note
+### Note
 To simulate the installation of service , I have put 5 seconds sleep for starting and stopping the service.
 
